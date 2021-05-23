@@ -1,0 +1,29 @@
+.container{
+    text-align: center;
+    margin:auto;
+    padding: 100px;
+    display:flex;
+}
+
+.label{
+    text-align: left;
+    vertical-align: center;
+    display: grid;
+    margin:10% 0 0 10%;
+}
+.label>label, .input>input{
+    margin-top: 30px;
+}
+
+.input{
+    text-align:right;
+    margin:10% 0 0 10%;
+    display: grid;
+    width:200px;
+    height:50px;
+}
+
+.btnclass{
+    text-align: center;
+    margin:0 0 0 40%;
+}
